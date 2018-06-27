@@ -7,7 +7,7 @@ const GameItem = ( { id, date, time, address, parkName, index, url } ) => {
         <div className="list-item">
             <div>
                 <h3 className="list-item__title">Game {index}</h3>
-                <span className="list-item__sub-title">{moment(date).format('MMMM Do, YYYY')}</span>
+                <span className="list-item__sub-title">{moment(date).format('MMMM Do, YYYY')} | {time}</span>
             </div>
             <div className="list-item__data">
                 <h3 className="list-item__title">{parkName}</h3>
