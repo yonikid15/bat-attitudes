@@ -9,13 +9,14 @@
 }
 
 .page-header__title {
-  font-weight: 300;
   margin: 0;
   display: flex;
+  flex-wrap: wrap;
   // justify-content: space-between;
 
   h1 {
     margin-right: 90px;
+    font-weight: 300;
   }
   
   h1 span {
