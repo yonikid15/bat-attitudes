@@ -70,7 +70,7 @@ const games = [
     {
         id: 13,
         date: moment().set( { 'year': 2018, 'month': 7, 'date': 8 } ),
-        time: "8:00PM",
+        time: "9:30PM",
         address: "Rue Goyette at Boulevard Fournier - Gatineau",
         parkName: "Desjardins (Parc) - Ball Diamond",
         url: "https://www.google.com/maps/dir/?api=1&destination=RUE+GOYETTE+AT+BOULEVARD+FOURNIER+GATINEAU"
@@ -78,7 +78,7 @@ const games = [
     {
         id: 14,
         date: moment().set( { 'year': 2018, 'month': 7, 'date': 15 } ),
-        time: "9:30PM",
+        time: "8:00PM",
         address: "400 North River Road",
         parkName: "Riverain Park/North River Park - Diamond 1",
         url: "https://www.google.com/maps/dir/?api=1&destination=400+NORTH+RIVER+ROAD"
