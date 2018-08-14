@@ -82,6 +82,22 @@ const games = [
         address: "400 North River Road",
         parkName: "Riverain Park/North River Park - Diamond 1",
         url: "https://www.google.com/maps/dir/?api=1&destination=400+NORTH+RIVER+ROAD"
+    },
+    {
+        id: "PLAYOFFS SEMIFINALS",
+        date: moment().set( { 'year': 2018, 'month': 7, 'date': 22 } ),
+        time: "TBD",
+        address: "TBD",
+        parkName: "TBD",
+        url: undefined
+    },
+    {
+        id: "PLAYOFFS FINALS",
+        date: moment().set( { 'year': 2018, 'month': 7, 'date': 29 } ),
+        time: "TBD",
+        address: "TBD",
+        parkName: "TBD",
+        url: undefined
     }
 ];
 

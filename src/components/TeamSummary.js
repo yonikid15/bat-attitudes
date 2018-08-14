@@ -6,12 +6,11 @@ const TeamSummary = () => {
         <div className="page-header">
             <div className="content-container">
                 <div className="page-header__title">
-                    <h1>Standing: <span>10th</span></h1>
+                    <h1>Standing: <span>7th</span></h1>
                 </div>
                 <div className="page-header__title">
-                    <h1>Wins: <span>5</span></h1>
+                    <h1>Wins: <span>7</span></h1>
                     <h1>Losses: <span>6</span></h1>
-                    <h1>Missed: <span>1</span></h1>
                 </div>
             </div>
         </div>
