@@ -86,10 +86,10 @@ const games = [
     {
         id: "PLAYOFFS SEMIFINALS",
         date: moment().set( { 'year': 2018, 'month': 7, 'date': 22 } ),
-        time: "TBD",
-        address: "TBD",
-        parkName: "TBD",
-        url: undefined
+        time: "6:15PM",
+        address: "3290 Leitrim Road",
+        parkName: "Leitrim Park - Ritchie Diamond",
+        url: "https://www.google.com/maps/dir/?api=1&destination=3290+LEITRIM+ROAD"
     },
     {
         id: "PLAYOFFS FINALS",
